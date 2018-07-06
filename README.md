@@ -21,6 +21,7 @@ This directory contains various files of the text data at various stages of prep
 3. `csv/segmented_cleaned.csv` - Hand-cleaned version of `csv/segmented.csv' to address OCR to text parsing errors of section titles
 4. `csv/segmented_with_numbers.csv` - Version of `segmented_cleaned.csv` with volume and letter numbers included
 5. `metadata_text_merged.csv` - Joined data file of the text file `segmented_with_numbers.csv` and the metadata file, joined on volume number and letter number
+6. `metadata_text_merged_uid_dedup.csv` - Manually cleaned version of `metadata_text)merged.csv` with duplicated UIDs removed
 
 # Questions?
 Email wxue@college.harvard.edu
