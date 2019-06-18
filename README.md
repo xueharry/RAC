@@ -17,5 +17,5 @@ This directory contains various files of the text data at various stages of prep
 3. `metadata_text_merged.csv` - Joined data file of the text file `texts.csv` and the metadata file, joined on volume number and letter number. **This should be the primary reference data file.**
 
 # Questions?
-Email wxue@college.harvard.edu
+Email wenzhexue2014@gmail.com
 
